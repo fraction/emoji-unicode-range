@@ -1,7 +1,7 @@
 {
   "name": "emoji-unicode-range",
   "version": "1.0.0",
-  "description": "list of emoji codepoint ranges for unicode-range CSS",
+  "description": "unicode-range CSS fragment with list of Unicode emoji codepoint ranges",
   "main": "index.js",
   "author": "Christian Bundy",
   "license": "ISC"

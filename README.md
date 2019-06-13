@@ -1,6 +1,6 @@
 # emoji-unicode-range
-_
-> list of emoji codepoint ranges for unicode-range CSS
+
+> unicode-range CSS fragment with list of Unicode emoji codepoint ranges
 
 Emoji are fun! But sometimes when you add an emoji font to your `font-family`
 CSS you run into a problem where the emoji font is used for every character.
